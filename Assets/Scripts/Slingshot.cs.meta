@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 33c1b8e9c98f646dcb52ab6fa519c0c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {instanceID: 0}
+  - projLinePrefab: {instanceID: 0}
+  - rubberBand: {instanceID: 0}
+  - snapSoundClip: {fileID: 8300000, guid: 4e817a0bccb8f4a72aa92d3e8af990ff, type: 3}
+  - launchPoint: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
