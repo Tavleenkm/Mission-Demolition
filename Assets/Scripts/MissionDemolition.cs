@@ -93,7 +93,7 @@ public class MissionDemolition : MonoBehaviour {
             UpdateGUI();
 
             // Check if the goal is met or shots exceed limit to end level
-            if (Goal.goalMet || shotsTaken >= 10) {
+            if (Goal.goalMet || shotsTaken >= 5) {
                 // Change mode to levelEnd to stop further checks
                 mode = GameMode.levelEnd;
 
